@@ -1,5 +1,5 @@
 # microServices
-Micro services POC using RabbitMQ / Spring Security / Netflix Eureka Server / Netflix Zuul
+Micro services POC using RabbitMQ and Spring
 
 
 # Instructions to execute RabbitMq using Docker
