@@ -19,3 +19,4 @@ services:
 	  - RABBITMQ_DEFAULT_PASS=admin
 volumes:
   rabbitmq:
+
